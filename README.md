@@ -68,8 +68,11 @@ we have developed the user-friendly interface for this system which allows the u
 | Segmentation with DBSCAN and UNet Architecture | 0.4182 | 0.4203 | 0.296 | 0.215 | 45.148 | 47.134 |
 
 
-| Model | Accuracy | Precision | Recall | F1 Score |
+ | Model | Accuracy | Precision | Recall | F1 Score |
 | --- | --- | --- | --- | --- | --- | --- |
 |DenseNet 121 | 0.75 | 0.77 | 0.75 | 0.69 |
 |Resnet 101 | 0.77 | 0.81 | 0.77 | 0.77 |
 |VGG16 | 0.67 | 0.65 | 0.67 | 0.65 |
+
+
+## Conclusion
