@@ -64,6 +64,12 @@ we have developed the user-friendly interface for this system which allows the u
   <img src="Images/ee5.jpg" alt="Ensemble model" width="400"/><br>
  </p>
  
- 
+ <table>
+  <tr>
+    <td><img src="Images/ee3.jpg" alt="Ensemble model" width="400"/></td>
+    <td><img src="Images/ee4.jpg" alt="Ensemble model" width="400"/></td>
+    <td><img src="Images/ee5.jpg" alt="Ensemble model" width="400"/></td>
+  </tr>
+</table>
 
 ## Results
