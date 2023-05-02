@@ -1,4 +1,8 @@
-# Developing a system for Leaf Disease Detection
+# Developing a system for Leaf Disease Detection<br>
+
+Name of Students:
+1. Shilajit Banerjee(M22CS062)
+2. Dattatreyo Roy(M22CS060)
 
 ## Overview
 
