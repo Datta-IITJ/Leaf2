@@ -30,5 +30,11 @@ Follow this link to get an overview of the dataset:
 In this project, we have developed the leaf disease detection system using three well-known deep learning models such as DenseNet121, ResNet101, and VGG16, to classify images of leaves into healthy or diseased categories and identify the specific disease. Having experimented with the individual models, we have found out the results. Now, to improving the accuracy, precision, and recall of the detection system, we have tried to use the Ensemble learning which can help improve the overall performance of the system by combining the predictions of multiple models.
 
 
+## Interface
 
+we have developed the user-friendly interface for this system which allows the users to choose different models for detecting diseases, providing flexibility and ease of use. This would involve designing and implementing an interface that is intuitive and easy to navigate. The users takes a look at the different diseases. Now, if they select any model and enter the leaf image with disease, it will show the detected label for that leaf.
+
+<p align="center">
+  <img src="Output_images/SegmentationwithUNET_groundtruth_finaloutput3.png" alt="image_description" width="500"/><br>
+ </p>
 
