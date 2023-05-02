@@ -14,8 +14,14 @@ The main objective of this project is proposing a system for detecting leaf dise
 1. Developing a leaf disease detection system using deep learning models: The main objective of the project is to develop a system that can accurately detect leaf diseases using deep learning models. This would involve training the models on a large dataset of images of healthy and diseased leaves.
 2. Improving the accuracy, precision, and recall of the detection system through the Ensemble learning which can help improve the overall performance of the system by combining the predictions of multiple models.
 3. Comparing the performance of the ensembled model to the model where we aim to compare the performance of the ensembled model to determine whether the ensemble approach is more effective in improving the performance of the detection system.
-4. Developing a user-friendly interface for the system: The project could also aim to develop a user-friendly interface that allows users to choose different models for detecting diseases, providing flexibility and ease of use. This would involve designing and implementing an interface that is intuitive and easy to navigate.
-5. Another objective is to optimize the computational resources and time required for the system to run. This would involve finding ways to reduce the computational resources and time required while maintaining the accuracy and performance of the system.
+
+<p align="center">
+  <img src="Images/ensemble1.png" alt="Ensemble model" width="500"/><br>
+ </p>
+ 
+ 
+5. Developing a user-friendly interface for the system: The project could also aim to develop a user-friendly interface that allows users to choose different models for detecting diseases, providing flexibility and ease of use. This would involve designing and implementing an interface that is intuitive and easy to navigate.
+6. Another objective is to optimize the computational resources and time required for the system to run. This would involve finding ways to reduce the computational resources and time required while maintaining the accuracy and performance of the system.
 
 
 ## Dataset
