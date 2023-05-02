@@ -35,6 +35,6 @@ In this project, we have developed the leaf disease detection system using three
 we have developed the user-friendly interface for this system which allows the users to choose different models for detecting diseases, providing flexibility and ease of use. This would involve designing and implementing an interface that is intuitive and easy to navigate. The users takes a look at the different diseases. Now, if they select any model and enter the leaf image with disease, it will show the detected label for that leaf.
 
 <p align="center">
-  <img src="Images/ensemble1.png.png" alt="image_description" width="500"/><br>
+  <img src="main/Images/ensemble1.png" alt="image_description" width="500"/><br>
  </p>
 
