@@ -27,7 +27,7 @@ The main objective of this project is proposing a system for detecting leaf dise
 ## Dataset
 
 We have taken the dayaset from Kaggle. The plant leaves dataset on Kaggle consists of 4,503 images of 12 plant species, namely Mango, Arjun, Alstonia Scholaris, Guava, Bael, Jamun, Jatropha, Pongamia Pinnata, Basil, Pomegranate, Lemon, and Chinar. The images have been labeled into two classes - healthy and diseased. The plants were named from P0 to P11 and the dataset was divided into 22 subject categories ranging from 0000 to 0022. The images labeled with categories 0000 to 0011 represent the healthy class, while those labeled with categories 0012 to 0022 represent the diseased class.
-The dataset contains 2,278 images of healthy leaves and 2,225 images of diseased leaves.
+The dataset contains 2,278 images of healthy leaves and 2,225 images of diseased leaves.<br>
 Follow this link to get an overview of the dataset:
 
 
@@ -41,7 +41,29 @@ In this project, we have developed the leaf disease detection system using three
 we have developed the user-friendly interface for this system which allows the users to choose different models for detecting diseases, providing flexibility and ease of use. This would involve designing and implementing an interface that is intuitive and easy to navigate. The users takes a look at the different diseases. Now, if they select any model and enter the leaf image with disease, it will show the detected label for that leaf.
 
 <p align="center">
-  <img src="Images/ensemble1.png" alt="Ensemble model" width="500"/><br>
+  <img src="Images/ee1.png" alt="Ensemble model" width="500"/><br>
  </p>
+ 
+ <p align="center">
+  <img src="Images/ee1.png" alt="Ensemble model" width="500"/><br>
+ </p>
+ 
+ <p align="center">
+  <img src="Images/ee1.png" alt="Ensemble model" width="500"/><br>
+ </p>
+ 
+ <p align="center">
+  <img src="Images/ee1.png" alt="Ensemble model" width="500"/><br>
+ </p>
+ 
+ <p align="center">
+  <img src="Images/ee1.png" alt="Ensemble model" width="500"/><br>
+ </p>
+ 
+ <p align="center">
+  <img src="Images/ee1.png" alt="Ensemble model" width="500"/><br>
+ </p>
+ 
+ 
 
 ## Results
