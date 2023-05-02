@@ -58,3 +58,18 @@ we have developed the user-friendly interface for this system which allows the u
  </p>
 
 ## Results
+
+ | Model | Avg IOU score | Med IOU score | Avg Dice score | Med Dice score | Avg Hausdorff distance | Med Hausdorff distance |
+| --- | --- | --- | --- | --- | --- | --- |
+| Segmentation with normal UNET Architecture | 0.4157 | 0.4189 | 0.325 | 0.302 | 46.281 | 42.168 |
+| Segmentation with DenseNet121 and UNet Architecture | 0.9382 | 0.9408 | 0.453 | 0.413 | 31.138 | 29.176 |
+| Segmentation with Resnet50 and UNet Architecture | 0.8082 | 0.8109 | 0.438 | 0.426 | 25.689 | 30.256 |
+| Segmentation with Kmeans and UNet Architecture | 0.6882 | 0.6908 | 0.312 | 0.296 | 41.544 | 43.514 |
+| Segmentation with DBSCAN and UNet Architecture | 0.4182 | 0.4203 | 0.296 | 0.215 | 45.148 | 47.134 |
+
+
+| Model | Accuracy | Precision | Recall | F1 Score |
+| --- | --- | --- | --- | --- | --- | --- |
+|DenseNet 121 | 0.75 | 0.77 | 0.75 | 0.69 |
+|Resnet 101 | 0.77 | 0.81 | 0.77 | 0.77 |
+|VGG16 | 0.67 | 0.65 | 0.67 | 0.65 |
